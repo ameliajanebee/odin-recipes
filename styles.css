@@ -1,0 +1,29 @@
+/* styles.css */
+
+html, body{
+    height:100%;
+    width: 100%;
+}
+h1 {
+    color:rgb(255, 225, 0);
+    font-size: 50px;
+    text-shadow: 1px 0 0 rgb(114, 83, 44), 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#recipe {
+    background-color: cornsilk;
+}
+body#home{
+    background-image: url("https://images.unsplash.com/photo-1527214438108-c976a390d361?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80");
+    background-color: #cccccc;
+    line-height: 60px;
+}
+body{
+    background-color: cornsilk;
+}
+* {
+    font-family:Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img {
+    height: auto;
+    width: 500px;
+}
